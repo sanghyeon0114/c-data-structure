@@ -1,18 +1,12 @@
-- Primitive Data Structure
-1. Integer
-2. Float
-3. Character
-4. Pointer
-
 - Non-Primitive Data Structure
-1. Arrays
-2. Files
-3. Lists
 
-4. Lists : Linear Lists 
+1. Lists : Linear Lists 
+- Array
+- LinkedList
 - Stack
-- Queues
+- Queue
+- Deque
 
-5. Lists : Non-Linear Lists
-- Graphs
-- Trees
+2. Lists : Non-Linear Lists
+- Graphs ( Direct / Indirect )
+- Trees ( Ordinary / Binary )
